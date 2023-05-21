@@ -15,6 +15,7 @@ Disciplina: ferramenta de desenvolvimento web 2021.
 - Angular CLI: framework
 
 ### Exemplo colocar a imagem mostrando a barra de endereço do browser no localhost.
+![Captura de tela de 2023-05-21 17-42-19](https://github.com/MiguelSilva07/trabalho-ferramenta-desenvolvimento-web/assets/132858476/30781549-75cb-4661-ba73-17be8890f39f)
 
 
 ### Estrutura do projeto no VSCODE:
