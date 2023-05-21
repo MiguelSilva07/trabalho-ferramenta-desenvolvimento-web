@@ -7,7 +7,6 @@ Disciplina: ferramenta de desenvolvimento web 2021.
 - Ru:
 - Nome do curso:
 - Data de Aniversário:
-
 ### Softwares utilizados:
 - VS CODE
 - NODEJS
