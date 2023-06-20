@@ -14,6 +14,5 @@ Disciplina: ferramenta de desenvolvimento web 2021.
 - Angular CLI: framework
 
 ### Exemplo colocar a imagem mostrando a barra de endereço do browser no localhost.
-![Captura de tela de 2023-05-21 17-47-30](https://github.com/MiguelSilva07/trabalho-ferramenta-desenvolvimento-web/assets/132858476/32a848ac-ca39-4c4e-8c37-517d22982f5e)
 
 
