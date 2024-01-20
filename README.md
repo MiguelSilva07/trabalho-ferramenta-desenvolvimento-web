@@ -1,4 +1,4 @@
-# Projeto: ferramenta de desenvolvimento web, faculdade/2021
+# Projeto: Desenvolvimento web.
 Disciplina: ferramenta de desenvolvimento web 2021.
  
 ## O projeto consiste em criar uma estrutura em um arquivo.ts contendo as seguintes informações:
