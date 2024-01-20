@@ -13,6 +13,5 @@ Disciplina: ferramenta de desenvolvimento web 2021.
 - Bootstrap
 - Angular CLI: framework
 
-### Exemplo colocar a imagem mostrando a barra de endereço do browser no localhost.
 
 
